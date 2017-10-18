@@ -1,0 +1,23 @@
+/*123.css*/
+.divs1
+{
+	width: 100px;
+	height: 100px;
+	background: yellow;
+	position: absolute;  /*绝对定位*/
+}
+.divs2
+{
+	width: 100px;
+	height: 100px;
+	background: black;
+	position: relative;
+
+}
+.divs3
+{
+	width: 100px;
+	height: 100px;
+	background: red;
+	position: absolute;
+}

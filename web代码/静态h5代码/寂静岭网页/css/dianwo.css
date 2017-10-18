@@ -1,0 +1,27 @@
+/*dianwo.css*/
+*
+{
+	padding: 0;
+	margin:0;
+}
+.head
+{
+	width: 100%;
+	height: 175px;
+}
+.head div
+{
+	width: 350px;
+	height: 175px;
+	margin: 0 auto;
+}
+body
+{
+	background: #202020;
+}
+.fenkuai
+{
+	width: 1366px;
+	height: 52px;
+	background: red;
+}

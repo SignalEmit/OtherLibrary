@@ -1,0 +1,95 @@
+/*jiemian.css*/
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.bg
+{
+	width: 1360px;
+	height: 768px;
+	background: url(../img/beijing2.jpg);
+}
+.head
+{
+	width:1360px;
+	height: 30px;
+}
+.head ul>li
+{
+	list-style: none;
+	float:right;
+	margin-right: 20px;
+	text-decoration: none;
+}
+.head ul>li>a
+{
+	color: #E6E9F8;
+	font-size: 20px;
+	text-decoration: none;
+}
+.weizhi2
+{
+	width:1360px;
+	height: 50px;
+}
+.weizhi2 a
+{
+	float:right;
+	color: #E6E9F8;
+	font-size: 1px;
+	text-decoration: none;
+
+}
+.weizhi3
+{
+
+	width:631px;
+	height: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid #202020;
+}
+.weizhi3 ul
+{
+	text-align: center;
+	list-style: none;
+}
+.weizhi3 ul>li
+{
+	display: inline;
+}
+.weizhi3 ul>li>a
+{
+	color: #E6E9D4;
+	font-size: 23px;
+	text-decoration: none;
+}
+.juzhong
+{
+	text-align: center;
+	color:skyblue;
+}
+.weizhi4
+{
+	width:950px;
+	height: 550px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.weizhi4 h3
+{
+	color: skyblue;
+}
+.weizhi4 span
+{
+	color:#E6E9F8;
+	font-weight: bolder;
+}
+.weizhi4 a
+{
+	color: #E6E9F8;
+	float: right;
+	/*display: inline-block;*/
+	text-decoration: none;
+}

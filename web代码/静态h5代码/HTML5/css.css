@@ -1,0 +1,51 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.header
+{
+	height: 50px;
+}
+.header-left
+{
+
+}
+.header-right
+{
+	float:right;
+	width: 300px;
+	height: 100%;
+}
+.clear
+{
+	clear: both;
+}
+.body
+{
+
+}
+.mig-picture
+{
+	width:700px;
+	height:300px;
+	margin: 0 auto;
+	margin-top: 30；
+	margin-bottom:100;
+}
+.txt-juzhong
+{
+	text-align: center;
+}
+.txt
+{
+	width:600px;
+	height: 30px;
+}
+.txt-button
+{
+	width:100px;
+	height: 30px;
+	background: skyblue;
+	margin-left: -20px;
+}

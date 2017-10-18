@@ -1,0 +1,112 @@
+*{
+	margin: 0;
+	padding:0;
+}
+.kuaiyangshi
+{
+    margin: 0 auto;
+	width: 1360px;
+	height: 768px;
+	background: url(../img/background.jpg);
+	position: relative;
+}
+.kuaiyangshi1
+{
+	width: 1360px;
+	height: 100px;
+}
+.kuaiyangshi2
+{
+	width: 1360px;
+	height: 200px;
+}
+.kuaiyangshi4
+{
+	width: 1360px;
+	height: 100px;
+	/*background: red;*/
+}
+.kuaiyangshi5
+{
+	width: 1360px;
+	height: 100px;
+}
+.kuaiyangshi6
+{
+	width: 1360px;
+	height: 100px;
+}
+
+.kuaiyangshi5-fenkuai-left
+{
+	
+}
+.kuaiyangshi5-fenkuai-right
+{
+	width:650px;
+	height: 100px;
+	float:right;
+}
+.hang
+{
+
+}
+.kuaiyangshi5-fenkuai-right ul{
+	position: absolute;
+	right: 280px;
+	top: 350px;
+	color: #F6BF44;
+}
+.kuaiyangshi5-fenkuai-right ul>li{
+	margin-top: 20px;
+}
+.kuaiyangshi1 ul>li
+{
+	margin: 20px;
+}
+.kuaiyangshi5-fenkuai-right ul>li>a
+{
+	font-weight: 50;
+	font-size: 20px;
+	color:#E6E9F8;
+	border: #F6BF44;
+	text-decoration: none;
+}
+/*.bg
+{
+	width: 30px;
+	height: 30px;
+	border-radius: 15px;
+	background: url(knife.png);
+}*/
+.dingwei
+{
+	position: absolute;
+	left: 505px;
+	top: 443px;
+	font-size: 20px;
+}
+.wenzidingwei{
+	/*732*527*/
+	position: absolute;
+	left: 550px;
+	top: 502px;
+	color: #E6E9F8;
+	font-weight: bolder;
+}
+.kuaiyangshi1 ul
+{
+	position: absolute;
+	right: 50px;
+	top: 1px;
+}
+.dingwei-head>li
+{
+	list-style: none;
+	float:right;
+}
+.dingwei-head>li>a
+{
+	color: #E6E9F8;
+	text-decoration: none;
+}

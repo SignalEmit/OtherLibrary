@@ -1,0 +1,46 @@
+/*jingmeitupian.css*/
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.bg
+{
+	width: 1348px;
+	height:720px;
+	background:#202020;
+}
+.head
+{
+	width:1348px;
+	height: 30px;
+}
+.head ul>li
+{
+	list-style: none;
+	float:right;
+	margin-right: 20px;
+	text-decoration: none;
+}
+.head ul>li>a
+{
+	color: #E6E9F8;
+	font-size: 20px;
+	text-decoration: none;
+}
+.quan
+{
+	width: 1250px;
+	height: 150px;
+}
+.quan div
+{
+	float: left;
+}
+.juzhong
+{
+	width: 1250px;
+	height: 600px;
+	margin-right: auto;
+	margin-left: auto;
+}

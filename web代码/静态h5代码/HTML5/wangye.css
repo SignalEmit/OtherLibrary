@@ -1,0 +1,12 @@
+/*wangye.css*/
+.head-right
+{
+	height: 40px;
+	width: 400px;
+	float: right;
+}
+body
+{
+	background:url(city.jpg);
+	background-size: 100% 100%;
+}

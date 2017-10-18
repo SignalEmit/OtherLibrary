@@ -1,0 +1,10 @@
+/*wenjian.css*/
+.a
+{
+	width: 100px;
+	height: 100px;
+	background: red;
+	position: fixed;
+	top: 100px;
+	right: 100px;
+}
